@@ -30,7 +30,9 @@ CLIENT_ORIGIN=http://192.168.1.5:8081, "http://192.168.0.116:8081",
 MONGO_URI=mongodb+srv://mallikarjun09051997:FBNZfJFcoBPRk5iT@cluster0.okmookv.mongodb.net/Realtime-Chat-app?retryWrites=true&w=majority
 
 # JWT
-JWT_SECRET=supersecret_change_me
+JWT_SECRET=supersecret_change_me ,
+
+
 JWT_EXPIRES_IN=7d
 
 
