@@ -67,19 +67,23 @@ Replace <your-local-ip> with your actual machine IP (example: 192.168.0.116).
 
 
 # Run App
- npx expo start
- Scan QR code in Expo Go app
+ npx expo start ,
+
+ 
+ Scan QR code in Expo Go app ,
+
+ 
  Make sure your backend server is running before login
 
 
  # sample  users which i was used (to login)
- email- malli@example.com
+ email- malli@example.com ,
  password -123456
 
- email - rahul@example.com
+ email - rahul@example.com ,
  password - 123456
 
- email - aru@example.com
+ email - aru@example.com ,
  password - 123456
  
 
