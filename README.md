@@ -52,11 +52,15 @@ cd mobile
 
 ---Create a file config.js in mobile:(change asper your IP )---
 
-// Replace with your actual machine LAN IP where backend runs
+// Replace with your actual machine LAN IP where backend runs ,
+
+
 export const API_BASE_URL =  'http://192.168.0.116:5000/api'  ,
 
 
-// replace with your actual PC's WiFi IP
+// replace with your actual PC's WiFi IP ,
+
+
 export const SOCKET_URL = "http://192.168.0.116:5000";  ,
 
 
